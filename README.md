@@ -5,6 +5,92 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>HEIYLIM2422755036@outlook.com</title>
+ <style type="text/css">
+  
+    body{
+	margin:0px;
+	padding:0px;
+	width:100%;
+	height:100%;
+	background-image: url(../IMG/body.jpg);
+	}
+	
+html,body{
+	width:100%;
+	height:100%;
+	}
+
+	
+.loginframe{
+	width:680px;
+	height:400px;
+	background: rgba(0,0,0,0.5);
+	position:fixed;
+	top:0px; left:0px; right:0px; bottom:0px;
+	margin:auto;
+	border-radius: 20px;
+	padding:20px 0px;
+	box-sizing: border-box;
+	box-shadow:0 0 5px 5px rgba(0,0,0,0.4);
+	}
+	
+.loginframe div{
+	width:350px;
+	height:50px;
+	margin:1px auto;
+	color:white;
+	}
+	
+.loginframe p{
+	text-align:center;
+	color:white;
+	font-size:28px;
+	}
+	
+.loginframe div span{
+	display:inline-block;
+	cursor:pointer;
+	}
+	
+.loginframe div input{
+	width:100%;
+	height:30px;
+	background:transparent;
+	border:none;
+	border-bottom:1px solid #FFF;
+	outline:none;
+	color:#FFF;
+	}
+	
+/*提醒文字框改变颜色*/
+input::-webkit-input-placeholder{
+	color:#999999;
+	}
+	
+.loginframe .enterbut{
+	width:200px;
+	height:50px;
+	border-radius:50px;
+	background-image: linear-gradient(45deg, #ff9a9e 0%, #fad0c4 99%, #fad0c4 100%);
+	text-align:center;
+	padding-top:10px;
+	box-sizing:border-box;
+	font-size:24px;
+	cursor:pointer;
+	margin:40px auto;
+	}
+
+.loginframe .enterbut:hover{
+	box-shadow: 0 0 10px rgba(0,0,0,0.3) inset;
+	}
+	
+svg{
+	vertical-align:bottom;
+	}
+	
+
+  
+ </style>
 </head>
 
 <body>
